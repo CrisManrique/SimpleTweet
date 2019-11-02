@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Couldnt get the unlimited scroll to work. Will keep trying to implement it successfully.
 
 ## Open-source libraries used
 
