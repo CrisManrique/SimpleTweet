@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Simple Twitter*
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:x
 
-<img src=Twitter_walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="Twitter_walkthrough.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -62,7 +62,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Cristobal Manrique]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
